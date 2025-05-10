@@ -1,4 +1,4 @@
-![logo width="100%"  height="100px"](https://github.com/manish-tiwari12/manish-tiwari12/blob/main/computer-programming-word-concepts-banner-coding-and-computer-science-software-and-app-development-presentation-isolated-lettering-typography-idea-2AH77DH.jpg)
+![logo](https://github.com/manish-tiwari12/manish-tiwari12/blob/main/WhatsApp%20Image%202025-05-10%20at%2023.26.21_59de09ab.jpg)
 <h1 align="center">Hi 👋, I'm Manish Tiwari</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
